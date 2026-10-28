@@ -1,0 +1,26 @@
+Encerramento coordenado iniciado...
+[Sensor-TEMP-01] terminado de forma controlada (21 leituras).
+[Sensor-HUM-01] terminado de forma controlada (14 leituras).
+[Sensor-PRES-01] terminado de forma controlada (10 leituras).
+================================================================
+RELATÓRIO FINAL DE MONITORIZAÇÃO
+================================================================
+Duração da monitorização : 10,2 s
+Duração do encerramento : 2 ms
+----------------------------------------------------------------
+Sensor     Leituras   Mínimo   Máximo    Média Unidade 
+----------------------------------------------------------------
+HUM-01           14     40,3     59,4     48,7 %       
+PRES-01          10   1000,6   1021,4   1010,9 hPa    
+TEMP-01          21     18,1     26,9     22,3 °C       
+----------------------------------------------------------------
+Total de leituras (contador) : 45
+Soma das leituras por sensor : 45
+Registos no histórico : 45
+Verificação de consistência : OK
+Estado final das threads :
+  Sensor-TEMP-01  TERMINATED
+  Sensor-HUM-01   TERMINATED
+  Sensor-PRES-01  TERMINATED
+Todas as threads terminadas : SIM
+================================================================
